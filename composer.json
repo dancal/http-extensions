@@ -1,5 +1,5 @@
 {
-    "name": "effectra/http-extensions",
+    "name": "dancal/http-extensions",
     "description": "The Effectra HTTP Extensions package.",
     "type": "library",
     "license": "MIT",
@@ -16,8 +16,8 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": "^8.0.2",
-        "effectra/http-message": "1.0",
+        "php": "^7.4",
+        "dancal/http-message": "1.0",
         "psr/http-message": "^1.1 || ^2.0"
     }
 }
